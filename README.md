@@ -23,11 +23,16 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **JavaScript** → Lógica para atualização do relógio  
 
 ## 📌 Estrutura do Projeto
+
 📂 Relogio-Digital
 │-- 📜 index.html   # Estrutura do relógio
+
 │-- 🎨 style.css    # Estilização do relógio
+
 │-- ⚡ script.js     # Atualização dinâmica da hora
+
 │-- 🖼️ screenshot.png  # Imagem do relógio
+
 │-- 📜 README.md    # Documentação do projeto
 
 ## 📦 Instalação  
@@ -44,7 +49,8 @@ npm install
 npm start
 
 
-#💡 Melhorias Futuras
+##💡 Melhorias Futuras
+
 🔹 Adicionar opção de modo escuro/claro
 
 🔹 Permitir personalização do formato 12h/24h
@@ -52,6 +58,7 @@ npm start
 🔹 Implementar uma opção de alarme
 
 🤝 Contribuição
+
 Se deseja contribuir com este projeto, sinta-se à vontade para:
 
 Abrir uma issue com sugestões de melhorias
