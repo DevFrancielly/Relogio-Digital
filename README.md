@@ -6,8 +6,8 @@ Este é um projeto de um **relógio digital** simples, desenvolvido com **HTML, 
 ✅ Concluído  
 
 ## 🎨 Demonstração  
-![Relógio Digital](https://github.com/DevFrancielly/Relogio-Digital/blob/main/screenshot.png)  
-
+![image](https://github.com/user-attachments/assets/7653de33-cebc-4e89-8bce-805edc23b172)
+  
 🔗 **Acesse o projeto online:**
 [digitalclock-rose.vercel.app](https://vercel.com/franciellys-projects-d49f6b5a)
 
