@@ -43,16 +43,23 @@ npm install
 # Rode o projeto
 npm start
 
-💡 Melhorias Futuras
+
+#💡 Melhorias Futuras
 🔹 Adicionar opção de modo escuro/claro
+
 🔹 Permitir personalização do formato 12h/24h
+
 🔹 Implementar uma opção de alarme
 
 🤝 Contribuição
 Se deseja contribuir com este projeto, sinta-se à vontade para:
+
 Abrir uma issue com sugestões de melhorias
+
 Criar um pull request com novas funcionalidades
+
 Toda contribuição é bem-vinda! 😊
+
 
 📜 Licença
 Este projeto está sob a licença MIT, o que significa que você pode utilizá-lo e modificá-lo livremente.
